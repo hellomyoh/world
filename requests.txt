@@ -1,0 +1,72 @@
+annotated-types==0.6.0
+anyio==3.7.1
+attrs==23.1.0
+beautifulsoup4==4.12.2
+certifi==2023.7.22
+charset-normalizer==3.3.1
+click==8.1.7
+dnspython==2.4.2
+email-validator==2.1.0.post1
+exceptiongroup==1.1.3
+fastapi==0.104.0
+h11==0.14.0
+httpcore==0.18.0
+httptools==0.6.1
+httpx==0.25.0
+idna==3.4
+itsdangerous==2.1.2
+Jinja2==3.1.2
+MarkupSafe==2.1.3
+orjson==3.9.10
+outcome==1.3.0
+packaging==23.2
+pydantic==2.4.2
+pydantic-extra-types==2.1.0
+pydantic-settings==2.0.3
+pydantic_core==2.10.1
+PyMySQL==1.1.0
+PySocks==1.7.1
+python-dotenv==1.0.0
+python-multipart==0.0.6
+PyYAML==6.0.1
+requests==2.31.0
+selenium==4.14.0
+sniffio==1.3.0
+sortedcontainers==2.4.0
+soupsieve==2.5
+starlette==0.27.0
+trio==0.22.2
+trio-websocket==0.11.1
+typing_extensions==4.8.0
+ujson==5.8.0
+urllib3==2.0.7
+uvicorn==0.23.2
+uvloop==0.19.0
+watchfiles==0.21.0
+webdriver-manager==4.0.1
+websockets==12.0
+wsproto==1.2.0
+
+
+gz : 广州站
+pn : 普宁
+hz : 杭州男装
+xt : 新塘牛仔
+hznz : 杭州女装
+jfn: 解放南鞋城
+
+
+
+
+广州         快时尚首选，多风格女装价格实惠 广州
+普宁        爆款货源，找低价T恤卫衣家居服
+杭州男装   潮流男装，人气风格一网打尽
+新塘牛仔    牛仔基地，产地直供海量选择
+杭州女装      原创设计，品质轻熟女装应有尽有
+解放南鞋城         华南鞋都，汇集高中低档潮流鞋靴
+
+
+
+https://www.vvic.com/gz/search/index.html?sort=default&merge=1&algo=0&pid=1&q=T%E6%81%A4&searchCity=gz&pageId=search_index&queryType=1&vcid=20000035&currentPage=1
+https://www.vvic.com/pn/search/index.html?sort=default&merge=1&algo=0&pid=1&q=T%E6%81%A4&searchCity=pn&pageId=search_index&queryType=0&vcid=20000035&currentPage=1
+https://www.vvic.com/hz/search/index.html?sort=default&merge=1&algo=0&pid=1&q=T%E6%81%A4&searchCity=hz&pageId=search_index&queryType=0&vcid=20000035&currentPage=1
